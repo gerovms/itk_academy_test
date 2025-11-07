@@ -1,0 +1,17 @@
+aiosqlite
+alembic
+alembic-postgresql-enum
+asyncpg
+fastapi
+httpx
+passlib
+psycopg2-binary
+pydantic
+pydantic-settings
+pydantic_core
+python-dotenv
+python-jose
+pytest-asyncio
+pytest
+SQLAlchemy
+uvicorn
